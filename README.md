@@ -12,16 +12,16 @@ To acheive the goal several means of presenting the visualized data are used:
 - Infographic
 - Video presentation
 
+## Documentation and Data
+
+The supporting documentation is located in the _docs folder, while the Tableau workbooks with data are in _Tableau_files. The blog post created could be found [here](https://communicatingastory.blogspot.com/2020/10/childrens-health-are-we-doing-enough.html). 
+The summary of the project is the video presentation. 
 
 ## Development
 - Visualizations -  Tableau
 - Integrated programming language in Tableau - Python
 - OS - Windows 10 Home
 
-## Details
-
-The supporting documentation is located in the _docs folder, while the Tableau workbooks with data are in _Tableau_files. The blog post created could be found [here](https://communicatingastory.blogspot.com/2020/10/childrens-health-are-we-doing-enough.html). 
-The summary of the project is the video presentation. 
 
 
 
